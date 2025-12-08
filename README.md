@@ -72,8 +72,11 @@ Images d’inspirations :
 Palette de couleurs : Violet/Mauve, Jaune, Bleu nuit, Rose pâle, Bleu cyan froid
 
 Typographies :
-Pour titres : Cinzel, Bold (mettre exemple)
-Pour textes : Montserrat, Regular + Semi-Bold (mettre exemple)
+Pour titres : Cinzel, Bold
+Pour textes/Sous-titres : Montserrat, Regular + Semi-Bold
+![moodboard_coraline](https://github.com/user-attachments/assets/a7f90715-41c7-4145-9201-aa2fae063067)
+
+
 
 ---
 
