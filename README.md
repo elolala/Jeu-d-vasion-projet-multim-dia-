@@ -136,7 +136,7 @@ Chaque joueur a un objet spécial :
 1. Salle avec piano du père a Coraline : déchiffrer et jouer les notes sur le piano
 2. Chambre à Coraline : replacer les objets, obtenir une clé
 3. Cuisine : déchiffrer les symboles, trouver les ingrédients et compléter la recette
-4. Corridor : reconstituer la phrase (ou les phrases jsp premier cardre frappe mains, deuxième tape pied, etc
+4. Corridor : reconstituer la phrase en replaçant les cadres dans le bon ordre
 5. Fin : Wybie est libéré
 
 ---
