@@ -10,17 +10,17 @@
 
 ## Contenu des diapositives
 
-### Phrase choc (Diapo 1)
+### Phrase choc
 Sauvez Wybie des mains de la mère méchante avant que la lune ne s’éteigne…
 
 ---
 
-### Public cible (Diapo 2)
+### Public cible
 Public cible : Enfants, ados, familles, fans du film Coraline et des expériences immersives
 
 ---
 
-### Ce qui est important pour eux (Diapo 3)
+### Ce qui est important pour eux
 - Une expérience immersive et mystérieuse
 - Des énigmes amusantes mais accessibles
 - Une ambiance visuelle inspirée du film
@@ -29,14 +29,14 @@ Public cible : Enfants, ados, familles, fans du film Coraline et des expérience
 
 ---
 
-### Problème et opportunité (Diapo 4)
+### Problème et opportunité
 Problème : Peu d’escape games familiaux proposent une expérience esthétique, narrative et inspirée d’un univers très aimé
 
 Opportunité : Créer un escape game immersif Coraline avec projections, narration visuelle et énigmes interactives, accessif à un large public
 
 ---
 
-### Présentation du concept (Résumé, Diapo 5)
+### Présentation du concept
 Escape Game ou les joueurs doivent :
 - Explorer différentes pièces dans la maison de la mère méchante
 - Résoudre 4 énigmes immersives
@@ -45,7 +45,7 @@ Escape Game ou les joueurs doivent :
 
 ---
 
-### Éléments importants du concept (Diapo 6)
+### Éléments importants du concept
 1. Timer-lune projeté qui devient plus sombre avec le temps
 2. 4 salles interactives (piano, chambre, cuisine, corridor)
 3. Énigmes inspirées des éléments du film, utilisant musique, objets, symboles et puzzles visuels
@@ -54,14 +54,14 @@ Escape Game ou les joueurs doivent :
 
 ---
 
-### Choix technologiques (Diapo 7)
+### Choix technologiques
 - Projection vidéo (lune, Wybie, chat noir donne indices)
 - Objets interactifs physiques (piano, livre,
 - Audio spatial (effets, ambiance)
 
 ---
 
-### Moodboard visuel (Diapo 8)
+### Moodboard visuel
 Images d’inspirations :
 - La maison 1 de Coraline (style victorien, ambiance mystérieuse)
 - La lune du film un peu caché par le bouton (symbole temps qui passe)
@@ -81,7 +81,7 @@ Pour textes/Sous-titres : Montserrat, Regular + Semi-Bold
 
 ---
 
-### Le concept répond aux attentes (Diapo 9)
+### Le concept répond aux attentes
 - Il offre exploration + mystère + tension, ce que recherche le public
 - Il respecte l’univers esthétique de Coraline
 - Énigmes accessibles + idéal pour enfants/ados
@@ -89,7 +89,7 @@ Pour textes/Sous-titres : Montserrat, Regular + Semi-Bold
 
 ---
 
-### Préproduction (tâches essentielles, Diapo 10)
+### Préproduction (tâches essentielles)
 - Recherche visuelle et narrative
 - Écriture des énigmes
 - Design du parcours des salles
@@ -97,7 +97,7 @@ Pour textes/Sous-titres : Montserrat, Regular + Semi-Bold
 
 ---
 
-### Production (tâches essentielles, Diapo 11)
+### Production (tâches essentielles)
 - Fabrication des décors
 - Création des objets interactifs
 - Montage audio/création d’ambiance
@@ -105,7 +105,7 @@ Pour textes/Sous-titres : Montserrat, Regular + Semi-Bold
 
 ---
 
-### Postproduction (tâches essentielles, Diapo 12)
+### Postproduction (tâches essentielles)
 - Tests avec utilisateurs
 - Ajustement des énigmes
 - Correction des bugs
@@ -113,7 +113,7 @@ Pour textes/Sous-titres : Montserrat, Regular + Semi-Bold
 
 ---
 
-### Opération (tâches essentielles, Diapo 13)
+### Opération (tâches essentielles)
 - Accueil des groupes
 - Supervision
 - Maintenance du matériel
@@ -121,7 +121,7 @@ Pour textes/Sous-titres : Montserrat, Regular + Semi-Bold
 
 ---
 
-### Maquette / Scénarimage (Diapo 13, à faire sur Photoshop)
+### Maquette / Scénarimage (à faire sur Photoshop)
 Je peux montrer :
 - Timer lune projeté
 - Le piano de la salle 1
@@ -131,7 +131,7 @@ Je peux montrer :
 
 ---
 
-### Flux de l’expérience (Diapo 14)
+### Flux de l’expérience
 Chaque joueur a un objet spécial :
 1. Salle avec piano du père a Coraline : déchiffrer et jouer les notes sur le piano
 2. Chambre à Coraline : replacer les objets, obtenir une clé
@@ -141,7 +141,7 @@ Chaque joueur a un objet spécial :
 
 ---
 
-### Conclusion (Diapo 15)
+### Conclusion
 Ce qui rend le projet innovant :
 - Mélanges d’objets physiques + projections animées
 - Escape game inspiré d’un univers cinématographique apprécié.
