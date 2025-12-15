@@ -121,12 +121,8 @@ Pour textes/Sous-titres : Montserrat, Regular + Semi-Bold
 ---
 
 ### Maquette / Scénarimage (à faire sur Photoshop)
-Je peux montrer :
-- Timer lune projeté
-- Le piano de la salle 1
-- La chambre de Coraline avec objets à replacer
-- Le livre de recettes pour la salle cuisine
-- Les cadres pour dernière salle
+<img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/d1382285-097f-4d6b-9c03-3ff921247d42" />
+
 
 ---
 
