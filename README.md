@@ -4,7 +4,6 @@
 ### Titre : Escape Game Coraline
 ### Date : 28 novembre 2025
 ### Auteur : Élodie Lajeunesse
-### Description :
 
 ---
 
